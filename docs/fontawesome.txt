@@ -1,0 +1,4 @@
+En boostrap existen diferentes medidas que nos permiten ajustar los elementos segun el tamaño de la pantalla, que son, sm-md-lg-xl- (xs es implicito cuando no se coloca la medida) para poder mantener una division de columnas que se adapten a la pantalla se debe de colocar todas las clases en donde se desea que permanezca la medida o en cierta medida se acomode de distinta manera.
+
+font-awesome
+la clase fa-spin puede hacer girar cualquier cosa que tenga esa clase. esta clase se puede usar cuando activemos un proceso del back y queremos decirle al usuario que su peticion esta en proceso
